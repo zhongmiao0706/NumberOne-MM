@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="NumberOne-MM"
+  id="myeclipse.1489455672092"
+  context-root="/numberone"
+  j2ee-spec="6.0"
+  archive="NumberOne-MM.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
